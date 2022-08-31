@@ -21,3 +21,7 @@ computations were made using punching cards, where each hole represents a value 
  it was hand-made code), so it was invented a machine which would peform the job of the punching card, but it was necessary to flip a switch for each letter ( A was seven times), so it was 
  a tedious process, so they came up with a good idea, why not plug in a typewriter to the machine and let the typewriter translate the coding and let implement the code as well, so that's where
  tty came to be(teletype).
+ 
+ A command-line interface (CLI) is a text-based user interface (UI) used to run programs, manage computer files and interact with the computer. Command-line interfaces are also called command-line user interfaces, console user interfaces and character user interfaces.
+ 
+ The outer layer of an operating system, otherwise known as the user interface. The term originally referred to the software that processed the commands typed into the Unix operating system. For example, the Bourne shell was the original Unix command line processor, and C shell and Korn shell were developed later.
