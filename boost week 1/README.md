@@ -35,10 +35,10 @@ people will look up to see if you're what you claim you're.
 
 pros: 
 
-Built in VSCode editor
-Built in search
-Universal with many connections
-Displays Markdown
+* Built in VSCode editor
+* Built in search
+* Universal with many connections
+* Displays Markdown
 
 ## Virtualbox
 
